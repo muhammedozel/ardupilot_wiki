@@ -119,8 +119,8 @@ is a popular AVR2560 8-bit autopilot.
 |                                      |                                            |
 |                                      | AtMega 2560                                |
 |                                      |                                            |
-|                                      | **Memory:Sensors:**                        |
-|                                      |                                            |
+|                                      | **Memory:**                                |
+|                                      | **Sensors:**                               |
 |                                      | 3-axis gyro, accelerometer                 |
 |                                      |                                            |
 |                                      | High-performance Barometric pressure       |
@@ -866,7 +866,8 @@ from Emlid. Under rapid development.
 | **Design files**                     | ?                                    |
 +--------------------------------------+--------------------------------------+
 
-.. |navio_plus_shop| replace:: `www.emlid.com/shop/navio-plus <http://www.emlid.com/shop/navio-plus/>`__   
+.. |navio_plus_shop| replace:: `www.emlid.com/shop/navio-plus <http://www.emlid.com/shop/navio-plus/>`__  
+ 
 
 
 NAVIO2
@@ -937,7 +938,8 @@ from Emlid.
 | **Design files**                     | ?                                    |
 +--------------------------------------+--------------------------------------+
 
-.. |navio2_shop| replace:: `www.emlid.com/shop/navio2 <http://www.emlid.com/shop/navio2/>`__   
+.. |navio2_shop| replace:: `www.emlid.com/shop/navio2 <http://www.emlid.com/shop/navio2/>`__  
+ 
 
 
 VRBrain
